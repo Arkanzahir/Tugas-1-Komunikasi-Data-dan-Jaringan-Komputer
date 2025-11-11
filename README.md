@@ -9,7 +9,7 @@ NRP: 50272411201.
 
    Base Network: 10.160.0.02. 
 
-Total Host yang Dibutuhkan:768 host (Termasuk 6 LAN dan 2 WAN link)
+   Total Host yang Dibutuhkan:768 host (Termasuk 6 LAN dan 2 WAN link)
 
 <img width="712" height="516" alt="Screenshot 2025-11-11 193059" src="https://github.com/user-attachments/assets/74a7c226-7444-4dc5-912b-08636991e847" />
 
