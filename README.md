@@ -4,10 +4,16 @@ NRP: 50272411201.
 
 1. Perhitungan Base Network
 NRP: 5027241120
+
 Perhitungan: 5027241120 mod 256 = 160
+
 Base Network: 10.160.0.02. 
 
-2. Topologi JaringanTopologi ini dirancang dengan 5 LAN di Kantor Pusat (menggunakan VLAN) dan 1 LAN di Kantor Cabang, sesuai dengan requirement soal.
+Total Host yang Dibutuhkan:768 host (Termasuk 6 LAN dan 2 WAN link)
+
+<img width="712" height="516" alt="Screenshot 2025-11-11 193059" src="https://github.com/user-attachments/assets/74a7c226-7444-4dc5-912b-08636991e847" />
+
+3. Topologi JaringanTopologi ini dirancang dengan 5 LAN di Kantor Pusat (menggunakan VLAN) dan 1 LAN di Kantor Cabang, sesuai dengan requirement soal.
 
   <img width="1913" height="758" alt="Screenshot 2025-11-10 223420" src="https://github.com/user-attachments/assets/82981e39-f17e-4657-b248-ca7d0c42d891" />
 
