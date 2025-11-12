@@ -7,7 +7,7 @@ NRP: 50272411201.
 
    Perhitungan: 5027241120 mod 256 = 160
 
-   Base Network: 10.160.0.02. 
+   Base Network: 10.160.0.
 
    Total Host yang Dibutuhkan:768 host (Termasuk 6 LAN dan 2 WAN link)
 
